@@ -30,7 +30,7 @@
       </div>
     </div>
   </div>
-  <div class="text-center py-5 h-100" style="background-image: url('F:/Pictures/background/Power-Rangers-Green-Ranger.jpg');">
+  <div class="text-center py-5 h-100" style="background-image: url(https://pbs.twimg.com/profile_images/556910781363531777/F1mY7b5J.jpeg);">
     <div class="container py-5"></div>
     <div class="container py-5"></div>
     <div class="container">
